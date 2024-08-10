@@ -119,7 +119,7 @@ author:
   location         : "China"
   email            : "zbz22@mails.tsinghua.edu.cn"
   links:
-    - label: "Email"
+    - label: "Email: zbz22@mails.tsinghua.edu.cn"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
