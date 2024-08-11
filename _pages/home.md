@@ -12,5 +12,9 @@ Hello! I am a third-year graduate student at Tsinghua University, advised by Pro
 
 
 
+My research interest lies in computational imaging and optics. Specifically, I focus on imaging in complex media like deep biological tissue imaging or 3D particle field imaging. In addition, I use multiple methods to achieve the goal of getting a deeper and clearer glance of the object in scattering media. These scientific methods mainly include super-resolution imaging, Lensless on-chip Microscopy, Fourier Ptychography and  Deep Learning based on simulator-training.
+
+
+
 
 
