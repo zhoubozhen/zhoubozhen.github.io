@@ -66,7 +66,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : "https://www.linkedin.com/in/%E6%9F%8F%E8%87%BB-%E5%91%A8-77892925a/" # blank (default) uses feed.xml
   hide                   : # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
