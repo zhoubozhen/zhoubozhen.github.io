@@ -2,6 +2,15 @@
 title: "About me"
 permalink: /
 layout: single  # 设置布局为 single
+author_profile: true
+header:
+  image: /assets/images/Land.jpg  # 替换为你的图片路径
+
 ---
 
-Hello! I am a new graduate student at UC Berkeley.
+Hello! I am a third-year graduate student at Tsinghua University, advised by Prof. [Ping Su](https://www.sigs.tsinghua.edu.cn/sp_548/main.htm). I am pursuing Master Degree in Electrical Engineering. Previously, I graduate from School of Mechanical Science and Engineering at Huazhong University of Science and Technology (HUST).
+
+
+
+
+
