@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Bozhen Zhou"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/zbz.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello, there! I am an **amazing** person."
   location         : "China"
   email            : "zbz22@mails.tsinghua.edu.cn"
