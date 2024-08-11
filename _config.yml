@@ -323,3 +323,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+  # _pages
+    - scope:
+        path: "_pages"  # 仅适用于 _pages 目录
+        type: pages
+      values:
+        layout: single
+        author_profile: true
