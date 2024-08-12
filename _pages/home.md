@@ -8,11 +8,11 @@ header:
 
 ---
 
-Hello! I am a third-year graduate student at Tsinghua University, advised by Prof. [Ping Su](https://www.sigs.tsinghua.edu.cn/sp_en/main.htm). I am pursuing Master Degree in Electrical Engineering. Previously, I graduate from School of Mechanical Science and Engineering at Huazhong University of Science and Technology (HUST).
+Hello! I am a third-year graduate student at Tsinghua University, where I am pursuing a Master's Degree in Electrical Engineering under the guidance of  Professor [Ping Su](https://www.sigs.tsinghua.edu.cn/sp_en/main.htm). Previously, I received my Bachelor's Degree from Huazhong University of Science and Technology (HUST).
 
 
 
-My research interest lies in computational imaging and optics. Specifically, I focus on imaging in complex media like deep biological tissue imaging or 3D particle field imaging. In addition, I use multiple methods to achieve the goal of getting a deeper and clearer glance of the object in scattering media. These scientific methods mainly include super-resolution imaging, Lensless on-chip Microscopy, Fourier Ptychography and  Deep Learning based on simulator-training.
+My research interests focus on computational imaging and optics, with a particular emphasis on imaging in complex media, such as deep biological tissue or 3D particle fields. I employ a variety of techniques to achieve clearer and deeper visualizations in scattering media, including super-resolution imaging, lensless on-chip microscopy, Fourier ptychography, digital holography, and deep learning based on simulator-training.
 
 
 
